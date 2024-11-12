@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzhan</h1>
-<h3 align="center">A passionate JR. game developer from Turkey.</h3>
+<h3 align="center">Game Developer.</h3>
 
 - 📫 How to reach me **fatihyakupoglu9@gmail.com**
 - 🎮 [Google Play Store](https://play.google.com/store/apps/developer?id=Porsuk+Yaz%C4%B1l%C4%B1m&hl=tr&gl=TR)
